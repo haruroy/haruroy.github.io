@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://haruroy.github.io/post/df2c781b.html</loc>
+    
+    <lastmod>2023-04-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://haruroy.github.io/myself/index.html</loc>
     
     <lastmod>2023-04-05</lastmod>
@@ -81,6 +90,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://haruroy.github.io/tags/%E7%94%9F%E4%BF%A1-DeepVariant-snv/</loc>
+    <lastmod>2023-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   

@@ -11,10 +11,20 @@
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> 软件 </category>
+          
+          <category> DeepVariant </category>
+          
+      </categories>
+      
       
         <tags>
             
-            <tag> 生信 DeepVariant snv </tag>
+            <tag> 生信 </tag>
+            
+            <tag> SNV </tag>
             
         </tags>
       

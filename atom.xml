@@ -6,7 +6,7 @@
   <link href="http://haruroy.github.io/atom.xml" rel="self"/>
   
   <link href="http://haruroy.github.io/"/>
-  <updated>2023-04-05T09:16:49.808Z</updated>
+  <updated>2023-04-05T09:21:42.561Z</updated>
   <id>http://haruroy.github.io/</id>
   
   <author>
@@ -21,13 +21,19 @@
     <link href="http://haruroy.github.io/post/df2c781b.html"/>
     <id>http://haruroy.github.io/post/df2c781b.html</id>
     <published>2023-04-05T09:11:14.000Z</published>
-    <updated>2023-04-05T09:16:49.808Z</updated>
+    <updated>2023-04-05T09:21:42.561Z</updated>
     
     
     
     
+    <category term="软件" scheme="http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/"/>
     
-    <category term="生信 DeepVariant snv" scheme="http://haruroy.github.io/tags/%E7%94%9F%E4%BF%A1-DeepVariant-snv/"/>
+    <category term="DeepVariant" scheme="http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/DeepVariant/"/>
+    
+    
+    <category term="生信" scheme="http://haruroy.github.io/tags/%E7%94%9F%E4%BF%A1/"/>
+    
+    <category term="SNV" scheme="http://haruroy.github.io/tags/SNV/"/>
     
   </entry>
   

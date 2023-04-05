@@ -92,12 +92,33 @@
 
   
   <url>
-    <loc>http://haruroy.github.io/tags/%E7%94%9F%E4%BF%A1-DeepVariant-snv/</loc>
+    <loc>http://haruroy.github.io/tags/%E7%94%9F%E4%BF%A1/</loc>
+    <lastmod>2023-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://haruroy.github.io/tags/SNV/</loc>
     <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2023-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/DeepVariant/</loc>
+    <lastmod>2023-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

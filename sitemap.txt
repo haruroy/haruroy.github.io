@@ -8,4 +8,7 @@ http://haruroy.github.io/about/index.html
 http://haruroy.github.io/categories/index.html
 http://haruroy.github.io/post/4a17b156.html
 http://haruroy.github.io/
-http://haruroy.github.io/tags/%E7%94%9F%E4%BF%A1-DeepVariant-snv/
+http://haruroy.github.io/tags/%E7%94%9F%E4%BF%A1/
+http://haruroy.github.io/tags/SNV/
+http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/
+http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/DeepVariant/

@@ -1,3 +1,4 @@
+http://haruroy.github.io/post/b6296e7c.html
 http://haruroy.github.io/post/2c07e1e1.html
 http://haruroy.github.io/post/df2c781b.html
 http://haruroy.github.io/myself/index.html
@@ -13,6 +14,8 @@ http://haruroy.github.io/tags/%E7%94%9F%E4%BF%A1/
 http://haruroy.github.io/tags/SNV/
 http://haruroy.github.io/tags/JavaWeb/
 http://haruroy.github.io/tags/SQL/
+http://haruroy.github.io/tags/Java/
 http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/
 http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/DeepVariant/
 http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/MySQL/
+http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/Java/

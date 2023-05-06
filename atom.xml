@@ -6,7 +6,7 @@
   <link href="http://haruroy.github.io/atom.xml" rel="self"/>
   
   <link href="http://haruroy.github.io/"/>
-  <updated>2023-05-05T04:01:16.295Z</updated>
+  <updated>2023-05-06T08:27:15.872Z</updated>
   <id>http://haruroy.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JDBC使用</title>
+    <link href="http://haruroy.github.io/post/b6296e7c.html"/>
+    <id>http://haruroy.github.io/post/b6296e7c.html</id>
+    <published>2023-05-05T07:31:15.000Z</published>
+    <updated>2023-05-06T08:27:15.872Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="JDBC快速入门"><a href="#JDBC快速入门" class="headerlink" title="JDBC快速入门"></a>JDBC快速入门</h1><ol><li>注册驱动<br><code>Class.forName(&quot;com.mysql.jdbc.Driver&quot;)</code></li><li>获取连接<br><code>Connection conn=DriverManager.getConnection(url,username,password)</code><br>url&#x3D;”jdbc:mysql:&#x2F;&#x2F;ip:port&#x2F;database_name”</li><li>定义sql语句<br><code>Sring sql=&quot;语句&quot;</code></li><li>获取执行sql对象<br><code>Statement stmt=conn.createStatement()</code></li><li>执行sql<br><code>stmt.execteUpdate(sql)</code></li><li>处理返回结果</li><li>释放资源<br><code>rs.close();stmt.close(); conn.close()；</code></li></ol><h1 id="JDBC-API"><a href="#JDBC-API" class="headerlink" title="JDBC API"></a>JDBC API</h1><ol><li>DriverManager 注册驱动&amp;获取连接</li><li>Connection 获取执行sql对象&amp;管理事务</li></ol><ul><li><p>Statement 执行SQL语句<br><code>execteUpdate(sql)</code>返回影响的行数int类型<br><code>execteQuery(sql)</code>执行查询语句 返回ResultSet结果集<br>  <code>while(rs.next())&#123;rs.get参数&#125;</code>光标向下移动&amp;获取对应的参数</p></li><li><p>PreparedStatement 预编译&amp;预防sql注入<br>  sql注入就是使用密码漏洞登录<br>  sql语句参数用？占位符<br>  <code>PreparedStatement pstmt=conn.PrepareStatement(sql)</code><br>  通过set赋值</p><p>  开启预编译功能<br>  <code>url=...&amp;useServerPrepstmts=true</code></p></li><li><p>CallableStatement</p></li></ul><h1 id="数据连接池"><a href="#数据连接池" class="headerlink" title="数据连接池"></a>数据连接池</h1><ol><li>定义Druid配置文件</li><li>加载配置文件<br><code>proprties prop = new properties();</code><br><code>prop.load(new fileinputstream(配置文件目录))</code></li><li>获取连接池对象<br><code>datasource datasource=druiddatasourcefactory.createdatasource</code><br>4.获取数据库连接<br><code>connection connection =datasource.getconnection</code></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;JDBC快速入门&quot;&gt;&lt;a href=&quot;#JDBC快速入门&quot; class=&quot;headerlink&quot; title=&quot;JDBC快速入门&quot;&gt;&lt;/a&gt;JDBC快速入门&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;注册驱动&lt;br&gt;&lt;code&gt;Class.forName(&amp;quot;com.my</summary>
+      
+    
+    
+    
+    <category term="软件" scheme="http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="Java" scheme="http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/Java/"/>
+    
+    
+    <category term="JavaWeb" scheme="http://haruroy.github.io/tags/JavaWeb/"/>
+    
+    <category term="Java" scheme="http://haruroy.github.io/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>SQL语言</title>

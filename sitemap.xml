@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://haruroy.github.io/post/b6296e7c.html</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://haruroy.github.io/post/2c07e1e1.html</loc>
     
     <lastmod>2023-05-05</lastmod>
@@ -94,7 +103,7 @@
 
   <url>
     <loc>http://haruroy.github.io/</loc>
-    <lastmod>2023-05-05</lastmod>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,28 +111,35 @@
   
   <url>
     <loc>http://haruroy.github.io/tags/%E7%94%9F%E4%BF%A1/</loc>
-    <lastmod>2023-05-05</lastmod>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://haruroy.github.io/tags/SNV/</loc>
-    <lastmod>2023-05-05</lastmod>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://haruroy.github.io/tags/JavaWeb/</loc>
-    <lastmod>2023-05-05</lastmod>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://haruroy.github.io/tags/SQL/</loc>
-    <lastmod>2023-05-05</lastmod>
+    <lastmod>2023-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://haruroy.github.io/tags/Java/</loc>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -132,21 +148,28 @@
   
   <url>
     <loc>http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2023-05-05</lastmod>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/DeepVariant/</loc>
-    <lastmod>2023-05-05</lastmod>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/MySQL/</loc>
-    <lastmod>2023-05-05</lastmod>
+    <lastmod>2023-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://haruroy.github.io/categories/%E8%BD%AF%E4%BB%B6/Java/</loc>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
